@@ -1,0 +1,12 @@
+Metric,Reported,Actual,Status
+Top product,Cheese,Cheese,MATCH
+Top product sales (₹),27906.3,27906.3,MATCH
+Top branch,C,C,MATCH
+Top branch sales (₹),72469.45,72469.45,MATCH
+Top category,Beverages,Beverages,MATCH
+Top category sales (₹),56108.24,56108.24,MATCH
+Most-used payment method,UPI,UPI,MATCH
+UPI transaction count,127,127,MATCH
+Member average transaction (₹),483.14,483.139527027027,MATCH
+Normal average transaction (₹),497.07,497.06754901960784,MATCH
+Average customer rating,3.99,3.9943999999999997,MATCH

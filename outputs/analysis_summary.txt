@@ -1,0 +1,19 @@
+SUPERMARKET SALES ANALYSIS
+============================
+Rows loaded: 500
+Rows used for sales analysis: 500
+Total sales: ₹244,411.08
+Average transaction sales: ₹488.82
+Sales calculation note: Used Quantity × Unit Price; supplied Sales agrees within ₹0.02.
+
+Top findings from the actual CSV:
+- Highest product sales: Cheese — ₹27,906.30
+- Highest branch sales: C — ₹72,469.45
+- Highest category sales: Beverages — ₹56,108.24
+- Most-used payment method: UPI — 127 transactions
+- Average sale by customer type:
+  - Member: ₹483.14
+  - Normal: ₹497.07
+- Average rating: 3.99/5
+
+See reported_results_verification.csv to compare with the values in the project brief.
